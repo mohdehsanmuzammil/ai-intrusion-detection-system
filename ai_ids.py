@@ -5,7 +5,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 
 # AI
-from sklearn.ensemble import IsolationForest
+from sklearn.ensemble import IsolationForest 
 import numpy as np
 
 # ---------------- GLOBAL VARIABLES ----------------
