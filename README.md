@@ -31,7 +31,7 @@ This project is an AI-powered Intrusion Detection and Prevention System that mon
 ![detection](dashboard1.png)
 
 #  Traffic Graph
-![Graph](graph.png.png)
+![Graph](graph.png)
 
 ##  Sample Output
 ![sample_o/p](sample_output.png)
